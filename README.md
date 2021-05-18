@@ -1,2 +1,2 @@
-# trail_1
+# trail
 my first vue trial
